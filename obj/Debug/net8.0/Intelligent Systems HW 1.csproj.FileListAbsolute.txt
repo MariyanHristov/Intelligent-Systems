@@ -1,0 +1,14 @@
+C:\Users\IVAYLO\source\repos\Intelligent Systems HW 1\Intelligent Systems HW 1\bin\Debug\net8.0\Intelligent Systems HW 1.exe
+C:\Users\IVAYLO\source\repos\Intelligent Systems HW 1\Intelligent Systems HW 1\bin\Debug\net8.0\Intelligent Systems HW 1.deps.json
+C:\Users\IVAYLO\source\repos\Intelligent Systems HW 1\Intelligent Systems HW 1\bin\Debug\net8.0\Intelligent Systems HW 1.runtimeconfig.json
+C:\Users\IVAYLO\source\repos\Intelligent Systems HW 1\Intelligent Systems HW 1\bin\Debug\net8.0\Intelligent Systems HW 1.dll
+C:\Users\IVAYLO\source\repos\Intelligent Systems HW 1\Intelligent Systems HW 1\bin\Debug\net8.0\Intelligent Systems HW 1.pdb
+C:\Users\IVAYLO\source\repos\Intelligent Systems HW 1\Intelligent Systems HW 1\obj\Debug\net8.0\Intelligent Systems HW 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVAYLO\source\repos\Intelligent Systems HW 1\Intelligent Systems HW 1\obj\Debug\net8.0\Intelligent Systems HW 1.AssemblyInfoInputs.cache
+C:\Users\IVAYLO\source\repos\Intelligent Systems HW 1\Intelligent Systems HW 1\obj\Debug\net8.0\Intelligent Systems HW 1.AssemblyInfo.cs
+C:\Users\IVAYLO\source\repos\Intelligent Systems HW 1\Intelligent Systems HW 1\obj\Debug\net8.0\Intelligent Systems HW 1.csproj.CoreCompileInputs.cache
+C:\Users\IVAYLO\source\repos\Intelligent Systems HW 1\Intelligent Systems HW 1\obj\Debug\net8.0\Intelligent Systems HW 1.dll
+C:\Users\IVAYLO\source\repos\Intelligent Systems HW 1\Intelligent Systems HW 1\obj\Debug\net8.0\refint\Intelligent Systems HW 1.dll
+C:\Users\IVAYLO\source\repos\Intelligent Systems HW 1\Intelligent Systems HW 1\obj\Debug\net8.0\Intelligent Systems HW 1.pdb
+C:\Users\IVAYLO\source\repos\Intelligent Systems HW 1\Intelligent Systems HW 1\obj\Debug\net8.0\Intelligent Systems HW 1.genruntimeconfig.cache
+C:\Users\IVAYLO\source\repos\Intelligent Systems HW 1\Intelligent Systems HW 1\obj\Debug\net8.0\ref\Intelligent Systems HW 1.dll
